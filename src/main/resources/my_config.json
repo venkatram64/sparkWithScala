@@ -1,0 +1,15 @@
+{
+  "header":{
+    "created_by": "Venkatram",
+    "created_date": "14062023"
+  },
+  "body":{
+    "my_emp_table": "hive_emp",
+    "null_value_replacement": {
+      "id": "NO",
+      "email": "YES",
+      "first_name": "YES",
+      "last_name": "YES"
+    }
+  }
+}
