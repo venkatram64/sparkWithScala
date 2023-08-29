@@ -8,7 +8,7 @@ import org.scalatest.BeforeAndAfterAll
 import org.scalatest.flatspec.AnyFlatSpec
 
 
-class SparkUtilsSpec extends AnyFlatSpec with BeforeAndAfterAll{
+class SparkUtilsSpec extends AnyFlatSpec {
 
   //var spark: SparkSession = _
 
